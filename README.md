@@ -1,5 +1,5 @@
 # Website-links
-## Here the Lawn Care website I made:
+## Here are the Lawn Care website I made:
 
 https://suncitylawn.net/ <br>
 https://www.fetlawncare.com/ <br>
